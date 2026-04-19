@@ -3,8 +3,8 @@
                                                           
                                        ╔═══════════════════════════════════════════════════════╗
                                        ║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
-                                       ║      Turning data into intelligence, one model at     ║
-                                       ║              a time                                   ║
+                                       ║            Turning data into intelligence             ║
+                                       ║                                                       ║
                                        ╚═══════════════════════════════════════════════════════╝
                                                           
 
