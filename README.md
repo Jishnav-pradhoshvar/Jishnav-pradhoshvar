@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Jishnav Pradhoshvar
 
-```
-╔═══════════════════════════════════════════════════════╗
-║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
-║      Turning data into intelligence, one model at     ║
-║              a time                                   ║
-╚═══════════════════════════════════════════════════════╝
-```
+                                                          ```
+                                                          ╔═══════════════════════════════════════════════════════╗
+                                                          ║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
+                                                          ║      Turning data into intelligence, one model at     ║
+                                                          ║              a time                                   ║
+                                                          ╚═══════════════════════════════════════════════════════╝
+                                                          ```
 
 ---
 
