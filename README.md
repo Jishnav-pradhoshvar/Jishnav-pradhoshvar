@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Jishnav Pradhoshvar
+#  Hey there! I'm Jishnav Pradhoshvar
 
 ## 🎯 About Me
 
