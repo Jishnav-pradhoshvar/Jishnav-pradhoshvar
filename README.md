@@ -78,10 +78,6 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 - Data visualization with Power BI
 
 
----
-
----
-
 ## 🎓 Learning & Growth
 
 I'm continuously exploring:
