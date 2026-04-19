@@ -1,19 +1,14 @@
-<div align="center">
+# 👋 Hey there! I'm Jishnav Pradhoshvar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&font=Playfair+Display&color=0:0f0c29,40:302b63,70:24243e,100:0f0c29&height=160&section=header&text=Hey%2C%20I'm%20Jishnav%20Pradhoshvar%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=🤖%20AI%20Engineer%20%7C%20NLP%20%26%20Generative%20AI%20Enthusiast%20%E2%80%A2%20Turning%20data%20into%20intelligence,%20one%20model%20at%20a%20time&descSize=16&descAlignY=65&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+                                                          ```
+                                                          ╔═══════════════════════════════════════════════════════╗
+                                                          ║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
+                                                          ║      Turning data into intelligence, one model at     ║
+                                                          ║              a time                                   ║
+                                                          ╚═══════════════════════════════════════════════════════╝
+                                                          ```
 
-<br/>
-
-<!-- Colorful role pills -->
-<img src="https://img.shields.io/badge/🤖%20AI%20Engineer-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🗣️%20NLP-2563EB?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/✨%20Generative%20AI-DB2777?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-059669?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/📊%20MLOps-EA580C?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-<br/><br/>
+---
 
 ## 🎯 About Me
 
