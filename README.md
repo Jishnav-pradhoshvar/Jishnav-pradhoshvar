@@ -4,116 +4,109 @@
 
 <br/>
 
-<!-- Role Badges -->
-<img src="https://img.shields.io/badge/🤖%20AI%20Engineer-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🗣️%20NLP-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✨%20Generative%20AI-DB2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊%20MLOps-EA580C?style=for-the-badge"/>
+<!-- Colorful role pills -->
+<img src="https://img.shields.io/badge/🤖%20AI%20Engineer-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🗣️%20NLP-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/✨%20Generative%20AI-DB2777?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-059669?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊%20MLOps-EA580C?style=for-the-badge&logoColor=white"/>
 
 </div>
 
----
+<br/><br/>
 
 ## 🎯 About Me
 
-AI Engineer passionate about building intelligent systems that bridge the gap between cutting-edge ML and real-world applications.
+I'm an AI engineer passionate about building intelligent systems that bridge the gap between cutting-edge machine learning and real-world applications. With expertise in **NLP, Generative AI, and full-stack ML solutions**, I transform complex problems into elegant, scalable implementations.
 
-- 🧠 Specialized in **NLP & Generative AI**
-- 🚀 Focused on **end-to-end ML solutions**
-- 💡 Turning complex problems into **scalable systems**
+Whether it's crafting prompt engineering strategies, building computer vision pipelines, or architecting data-driven applications—I love the entire journey from concept to production.
 
 ---
 
 ## 💡 What I Do
 
-- 🧠 AI & Machine Learning  
-- 🗣️ NLP & Generative AI  
-- 👁️ Computer Vision  
-- 🔐 Secure API Design  
-- 📊 Data Engineering  
-- 🚀 Full-Stack ML Development  
+- 🧠 **AI & Machine Learning** – Building and deploying ML models that make a difference
+- 🗣️ **NLP & Generative AI** – Prompt engineering, model fine-tuning, text processing
+- 👁️ **Computer Vision** – OpenCV, image processing, real-time detection systems
+- 🔐 **Security & Best Practices** – NoSQL Injection Prevention, secure API design
+- 📊 **Data Engineering** – ETL pipelines, database optimization, data visualization
+- 🚀 **Full-Stack Development** – From backend APIs to database design and deployment
+
+---
+
+## 🌟 Key Expertise Areas
+
+### 🎯 **Natural Language Processing**
+- Text preprocessing and tokenization
+- Sentiment analysis and classification
+- Named Entity Recognition (NER)
+- Language models and transformers
+
+### 🎨 **Generative AI**
+- Prompt engineering strategies
+- LLM integration and optimization
+- Creative text generation
+- AI-powered applications
+
+### 👁️ **Computer Vision**
+- Real-time image processing
+- Object detection and tracking
+- Feature extraction
+- OpenCV pipeline development
+
+### 📈 **Data Science & Analytics**
+- Exploratory Data Analysis (EDA)
+- Statistical modeling
+- Predictive analytics
+- Data visualization with Power BI
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<!-- TOP ROW -->
-<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Data%20Science-00F7FF?style=for-the-badge&logo=python&logoColor=black&color=00F7FF"/>
-<img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge&logo=spacy&logoColor=black&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge&logo=opencv&logoColor=black&color=00F7FF"/>
-<br/><br/>
-<!-- BOTTOM ROW -->
-<img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=lightning&logoColor=black&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Data%20Science-00F7FF?style=for-the-badge&logo=python&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
+<img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge&logo=spacy&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=lightning&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
 
-</div>
+</p>
 
----
-
-## 💻 Programming & Frameworks
-
+### **Programming & Frameworks**
 | Category | Skills |
 |----------|--------|
-| 🐍 Languages | Python |
-| 📚 ML Libraries | Pandas, NumPy, Scikit-learn |
-| 🧠 NLP/CV | Transformers, spaCy, NLTK, OpenCV |
-| 🌐 Backend | Flask, REST APIs |
-| 🗄️ Database | MongoDB, PostgreSQL |
-| ⚙️ DevOps | Docker, Git, GitHub |
-| 📊 Visualization | Power BI, Matplotlib |
-| 🔐 Security | NoSQL Injection Prevention |
-
----
-
-## 🌟 Expertise
-
-### 🗣️ NLP
-- Text Processing, Tokenization  
-- Sentiment Analysis  
-- NER  
-- Transformers  
-
-### 🚀 Generative AI
-- Prompt Engineering  
-- LLM Integration  
-- RAG Systems  
-
-### 👁️ Computer Vision
-- Real-time Detection  
-- OpenCV Pipelines  
-
-### 📈 Data Science
-- EDA & Analytics  
-- Predictive Modeling  
+| **Languages** | Python 🐍 |
+| **ML Libraries** | Pandas, NumPy, Scikit-learn |
+| **CV & NLP** | OpenCV, NLTK, spaCy, Transformers |
+| **Web Development** | Flask, REST APIs, HTML, CSS |
+| **Databases** | MongoDB, PostgreSQL, SQL, NoSQL |
+| **DevOps & Tools** | Docker, Git, GitHub |
+| **Data Visualization** | Power BI, Matplotlib |
+| **Security** | NoSQL Injection Prevention |
 
 ---
 
 ## 🎓 Learning & Growth
 
-- 🔍 Advanced LLM Fine-Tuning  
-- 🔗 Retrieval-Augmented Generation  
-- 🧩 Multimodal AI  
-- 📄 NLP Research  
+I'm continuously exploring:
+- Advanced LLM architectures and fine-tuning
+- Retrieval-Augmented Generation (RAG) systems
+- Multimodal AI applications
+- Advanced NLP research papers and techniques
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect!
 
-📧 **jishnavpradhoshvar@gmail.com**
+I'm always excited to collaborate on interesting AI projects, discuss challenges or explore new ideas in generative AI.
 
----
-
-## 🎉 Final Note
-
-⭐ If you find something useful, consider starring a repo  
-🚀 Let’s build impactful AI together  
+- 📧 **Email** – jishnavpradhoshvar@gmail.com
 
 ---
 
-<p align="center">
-Made with ❤️ by <b>Jishnav Pradhoshvar</b>
-</p>
+### 🎉 Thanks for visiting!
+
+Feel free to explore my repositories, check out my projects, and don't hesitate to reach out. Let's build something amazing together! 🚀
