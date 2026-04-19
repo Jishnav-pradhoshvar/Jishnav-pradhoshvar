@@ -46,7 +46,7 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 | **Web Development** | Flask, REST APIs, HTML, CSS |
 | **Databases** | MongoDB, PostgreSQL, SQL, NoSQL |
 | **DevOps & Tools** | Docker, Git, GitHub |
-| **Data Visualization** | Power BI, Matplotlib, Seaborn |
+| **Data Visualization** | Power BI, Matplotlib |
 | **Security** | NoSQL Injection Prevention |
 
 ---
