@@ -33,15 +33,19 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Data%20Science-00F7FF?style=for-the-badge&logo=python&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge&logo=spacy&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=lightning&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
+<!-- TOP ROW (4 badges) -->
+<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Data%20Science-00F7FF?style=for-the-badge&logo=python&logoColor=black&color=00F7FF"/>
+<img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge&logo=spacy&logoColor=black&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge&logo=opencv&logoColor=black&color=00F7FF"/>
+
+<br><br>
+
+<!-- BOTTOM ROW (centered 2 badges) -->
+<img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black&color=00F7FF"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=lightning&logoColor=black&color=00F7FF"/>
 
 </p>
-
 
 ### **Programming & Frameworks**
 | Category | Skills |
