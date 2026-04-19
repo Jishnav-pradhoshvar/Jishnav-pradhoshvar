@@ -96,22 +96,6 @@ I'm always excited to collaborate on interesting AI projects, discuss challenges
 
 ---
 
-## 💬 Fun Fact
-
-```
-"The best AI is the one that solves real problems for real people."
-```
-
-I believe in building AI solutions that are not just technically sound, but also ethical, interpretable, and user-friendly. Every project is an opportunity to push boundaries and create something meaningful.
-
----
-
-
----
-
-
-
----
 
 ### 🎉 Thanks for visiting!
 
