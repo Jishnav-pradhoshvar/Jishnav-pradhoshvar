@@ -34,35 +34,8 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 
 ---
 
-## 🌟 Key Expertise Areas
-
-### 🎯 **Natural Language Processing**
-- Text preprocessing and tokenization
-- Sentiment analysis and classification
-- Named Entity Recognition (NER)
-- Language models and transformers
-
-### 🎨 **Generative AI**
-- Prompt engineering strategies
-- LLM integration and optimization
-- Creative text generation
-- AI-powered applications
-
-### 👁️ **Computer Vision**
-- Real-time image processing
-- Object detection and tracking
-- Feature extraction
-- OpenCV pipeline development
-
-### 📈 **Data Science & Analytics**
-- Exploratory Data Analysis (EDA)
-- Statistical modeling
-- Predictive analytics
-- Data visualization with Power BI
-
----
-
 ## 🛠️ Tech Stack
+
 
 <p align="center">
 
@@ -89,6 +62,33 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 
 ---
 
+## 🌟 Key Expertise Areas
+
+### 🎯 **Natural Language Processing**
+- Text preprocessing and tokenization
+- Sentiment analysis and classification
+- Named Entity Recognition (NER)
+- Language models and transformers
+
+### 🎨 **Generative AI**
+- Prompt engineering strategies
+- LLM integration and optimization
+- Creative text generation
+- AI-powered applications
+
+### 👁️ **Computer Vision**
+- Real-time image processing
+- Object detection and tracking
+- Feature extraction
+- OpenCV pipeline development
+
+### 📈 **Data Science & Analytics**
+- Exploratory Data Analysis (EDA)
+- Statistical modeling
+- Predictive analytics
+- Data visualization with Power BI
+
+
 ## 🎓 Learning & Growth
 
 I'm continuously exploring:
@@ -107,6 +107,15 @@ I'm always excited to collaborate on interesting AI projects, discuss challenges
 
 ---
 
+
 ### 🎉 Thanks for visiting!
 
 Feel free to explore my repositories, check out my projects, and don't hesitate to reach out. Let's build something amazing together! 🚀
+
+```
+⭐ If you find anything interesting, a star would be appreciated! ⭐
+```
+
+---
+
+**Made with ❤️ by Jishnav Pradhoshvar**
