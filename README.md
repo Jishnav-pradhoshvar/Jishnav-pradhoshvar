@@ -1,17 +1,14 @@
-<div align="center">
+# 👋 Hey there! I'm Jishnav Pradhoshvar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:24243e,100:0f0c29&height=160&section=header&text=Hey%2C%20I'm%20Jishnav%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20NLP%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20MLOps&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+                                                          ```
+                                                          ╔═══════════════════════════════════════════════════════╗
+                                                          ║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
+                                                          ║      Turning data into intelligence, one model at     ║
+                                                          ║              a time                                   ║
+                                                          ╚═══════════════════════════════════════════════════════╝
+                                                          ```
 
-<br/>
-
-<!-- Colorful role pills -->
-<img src="https://img.shields.io/badge/🤖%20AI%20Engineer-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🗣️%20NLP-2563EB?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/✨%20Generative%20AI-DB2777?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-059669?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/📊%20MLOps-EA580C?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
+---
 
 ## 🎯 About Me
 
@@ -24,7 +21,7 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 ## 💡 What I Do
 
 - 🧠 **AI & Machine Learning** – Building and deploying ML models that make a difference
-- 🗣️ **NLP & Generative AI** – Prompt engineering, model fine-tuning, text processing
+- 🗣️ **NLP & Generative AI** – Prompt engineering, LLM fine-tuning, text processing
 - 👁️ **Computer Vision** – OpenCV, image processing, real-time detection systems
 - 🔐 **Security & Best Practices** – NoSQL Injection Prevention, secure API design
 - 📊 **Data Engineering** – ETL pipelines, database optimization, data visualization
@@ -34,17 +31,11 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 
 ## 🛠️ Tech Stack
 
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Data%20Science-00F7FF?style=for-the-badge&logo=python&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge&logo=spacy&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=lightning&logoColor=black&labelColor=00F7FF&color=00F7FF"/>
-
-</p>
+### **AI & Machine Learning**
+```python
+🤖 Machine Learning | 📚 Data Science | 
+🗣️ NLP | 🎨 Computer Vision | 🚀 Generative AI | ⚡ Prompt Engineering
+```
 
 ### **Programming & Frameworks**
 | Category | Skills |
@@ -55,7 +46,7 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 | **Web Development** | Flask, REST APIs, HTML, CSS |
 | **Databases** | MongoDB, PostgreSQL, SQL, NoSQL |
 | **DevOps & Tools** | Docker, Git, GitHub |
-| **Data Visualization** | Power BI, Matplotlib |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn |
 | **Security** | NoSQL Injection Prevention |
 
 ---
@@ -87,6 +78,10 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 - Data visualization with Power BI
 
 
+---
+
+---
+
 ## 🎓 Learning & Growth
 
 I'm continuously exploring:
@@ -105,6 +100,22 @@ I'm always excited to collaborate on interesting AI projects, discuss challenges
 
 ---
 
+## 💬 Fun Fact
+
+```
+"The best AI is the one that solves real problems for real people."
+```
+
+I believe in building AI solutions that are not just technically sound, but also ethical, interpretable, and user-friendly. Every project is an opportunity to push boundaries and create something meaningful.
+
+---
+
+
+---
+
+
+
+---
 
 ### 🎉 Thanks for visiting!
 
@@ -117,11 +128,3 @@ Feel free to explore my repositories, check out my projects, and don't hesitate 
 ---
 
 **Made with ❤️ by Jishnav Pradhoshvar**
-
-
-
-
-
-
-
-
