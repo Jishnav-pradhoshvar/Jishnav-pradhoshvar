@@ -1,14 +1,9 @@
 # 👋 Hey there! I'm Jishnav Pradhoshvar
 
-                                                          ```
-                                                          ╔═══════════════════════════════════════════════════════╗
-                                                          ║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
-                                                          ║      Turning data into intelligence, one model at     ║
-                                                          ║              a time                                   ║
-                                                          ╚═══════════════════════════════════════════════════════╝
-                                                          ```
+               
 
----
+<img width="1440" height="420" alt="image" src="https://github.com/user-attachments/assets/b24f72cb-4150-41b6-b0db-96482d6a61ab" />
+
 
 ## 🎯 About Me
 
