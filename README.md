@@ -31,10 +31,14 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 
 ## 🛠️ Tech Stack
 
-### **AI & Machine Learning**
-```python
-🤖 Machine Learning | 📚 Data Science | 
-🗣️ NLP | 🎨 Computer Vision | 🚀 Generative AI | ⚡ Prompt Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-0A192F?style=for-the-badge&logo=ai&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/📚%20Data%20Science-0A192F?style=for-the-badge&logo=book&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/🗣️%20NLP-0A192F?style=for-the-badge&logo=googletranslate&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/🎨%20Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/🚀%20Generative%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/⚡%20Prompt%20Engineering-0A192F?style=for-the-badge&logo=lightning&logoColor=00F7FF"/>
+</p>| 🎨 Computer Vision | 🚀 Generative AI | ⚡ Prompt Engineering
 ```
 
 ### **Programming & Frameworks**
