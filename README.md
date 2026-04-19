@@ -1,16 +1,5 @@
 # 👋 Hey there! I'm Jishnav Pradhoshvar
 
-                                                          
-                                       ╔═══════════════════════════════════════════════════════╗
-                                       ║   🤖 AI Engineer | NLP & Generative AI Enthusiast    ║
-                                       ║            Turning data into intelligence             ║
-                                       ║                                                       ║
-                                       ╚═══════════════════════════════════════════════════════╝
-                                                          
-
----
-
-
 ## 🎯 About Me
 
 I'm an AI engineer passionate about building intelligent systems that bridge the gap between cutting-edge machine learning and real-world applications. With expertise in **NLP, Generative AI, and full-stack ML solutions**, I transform complex problems into elegant, scalable implementations.
