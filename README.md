@@ -21,7 +21,7 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 ## 💡 What I Do
 
 - 🧠 **AI & Machine Learning** – Building and deploying ML models that make a difference
-- 🗣️ **NLP & Generative AI** – Prompt engineering, LLM fine-tuning, text processing
+- 🗣️ **NLP & Generative AI** – Prompt engineering, model fine-tuning, text processing
 - 👁️ **Computer Vision** – OpenCV, image processing, real-time detection systems
 - 🔐 **Security & Best Practices** – NoSQL Injection Prevention, secure API design
 - 📊 **Data Engineering** – ETL pipelines, database optimization, data visualization
