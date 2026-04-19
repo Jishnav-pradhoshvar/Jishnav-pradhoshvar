@@ -32,13 +32,13 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-0A192F?style=for-the-badge&logo=ai&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/📚%20Data%20Science-0A192F?style=for-the-badge&logo=book&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/🗣️%20NLP-0A192F?style=for-the-badge&logo=googletranslate&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/🎨%20Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/🚀%20Generative%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/⚡%20Prompt%20Engineering-0A192F?style=for-the-badge&logo=lightning&logoColor=00F7FF"/>
-</p>| 🎨 Computer Vision | 🚀 Generative AI | ⚡ Prompt Engineering
+  <img src="https://img.shields.io/badge/Machine%20Learning-ff6ec4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-7873f5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-00c9ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-92fe9d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-fbc2eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-f6d365?style=for-the-badge"/>
+</p>
 ```
 
 ### **Programming & Frameworks**
