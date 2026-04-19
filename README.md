@@ -32,12 +32,15 @@ Whether it's crafting prompt engineering strategies, building computer vision pi
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-ff6ec4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-7873f5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-00c9ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-92fe9d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-fbc2eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-f6d365?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-1a1a1a?style=for-the-badge&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/📚%20Data%20Science-1a1a1a?style=for-the-badge&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/🗣️%20NLP-1a1a1a?style=for-the-badge&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/🎨%20Computer%20Vision-1a1a1a?style=for-the-badge&logoColor=FFD700"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Generative%20AI-1a1a1a?style=for-the-badge&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/⚡%20Prompt%20Engineering-1a1a1a?style=for-the-badge&logoColor=FFD700"/>
 </p>
 ```
 
