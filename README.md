@@ -45,9 +45,7 @@ AI Engineer passionate about building intelligent systems that bridge the gap be
 <img src="https://img.shields.io/badge/Data%20Science-00F7FF?style=for-the-badge&logo=python&logoColor=black&color=00F7FF"/>
 <img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge&logo=spacy&logoColor=black&color=00F7FF"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge&logo=opencv&logoColor=black&color=00F7FF"/>
-
 <br/><br/>
-
 <!-- BOTTOM ROW -->
 <img src="https://img.shields.io/badge/Generative%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black&color=00F7FF"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-00F7FF?style=for-the-badge&logo=lightning&logoColor=black&color=00F7FF"/>
